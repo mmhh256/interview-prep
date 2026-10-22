@@ -1,0 +1,12 @@
+# Operating system metadata
+.DS_Store
+._*
+__MACOSX/
+Thumbs.db
+Desktop.ini
+
+# Local credentials and private preparation materials
+.env
+.env.*
+!.env.example
+面试准备-*/
