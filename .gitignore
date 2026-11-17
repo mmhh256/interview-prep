@@ -5,6 +5,12 @@ __MACOSX/
 Thumbs.db
 Desktop.ini
 
+# Local tool state and Python cache
+.superpowers/
+eval-artifacts/
+__pycache__/
+*.py[cod]
+
 # Local credentials and private preparation materials
 .env
 .env.*
